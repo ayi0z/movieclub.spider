@@ -1,0 +1,15 @@
+README.md
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+sp_movies/__init__.py
+sp_movies/items.py
+sp_movies/middlewares.py
+sp_movies/pipelines.py
+sp_movies/settings.py
+sp_movies/spiders/__init__.py
+sp_movies/spiders/dandanzan.py
+sp_movies/spiders/dandanzan_copy.py
